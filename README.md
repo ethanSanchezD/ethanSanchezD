@@ -9,6 +9,7 @@
 - 💬 Ask me about **Java, SpringBoot**
 
 - 📫 How to reach me **ethand.san@gmail.com**
+- 🎓 Academic email: **ethandamian@ciencias.unam.mx**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VKKztjlAJuRJuM4J1VIvtmse4KBtgcyc/view?usp=sharing)
 
